@@ -27,6 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+.input{
+  text-align: center;
+}
+.green{
+    color: green;
+}
+
+.red{
+  color: red;
+}
 
 @keyframes App-logo-spin {
   from {
